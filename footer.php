@@ -37,10 +37,10 @@
                     <h5>Find Us</h5>
 
                     <div class="contact">
-                        <a href="https://www.google.com/maps/place/Fraser+Optical/@57.4830951,-4.4629993,17z/data=!3m1!4b1!4m5!3m4!1s0x488f0bf2d9a6a16d:0x5d6591b623e58d5c!8m2!3d57.4830939!4d-4.460813" target="_blank">1 Aird House,<br>
-                        High Street,<br>
-                        Beauly,<br>
-                        IV4 7BS</a>
+                        <a href="https://www.google.com/maps/place/Fraser+Optical/@57.4830951,-4.4629993,17z/data=!3m1!4b1!4m5!3m4!1s0x488f0bf2d9a6a16d:0x5d6591b623e58d5c!8m2!3d57.4830939!4d-4.460813" target="_blank">Dixons Hill Road,<br>
+                        Welham Green,<br>
+                        Hertfordshire,<br>
+                        AL9 7DW</a>
                     </div>
                 </article>
 
@@ -54,7 +54,7 @@
 
         <div class="subfooter">
             <div class="subfooter__credits">
-                <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo.jpg" alt="<?php bloginfo('name'); ?>">
+                <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo.png" alt="<?php bloginfo('name'); ?>">
                 <p>&copy;<?php bloginfo('name') ?> <?php echo date("Y"); ?></p>
                 <p class="credit"><a href="https://thomson-website-solutions.com/" target="_blank">Website by Thomson Website Solutions</a></p>
             </div><!-- subfooter__credits -->
